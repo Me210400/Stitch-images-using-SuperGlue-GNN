@@ -1,0 +1,14 @@
+*.pyc
+frames
+*.DS_Store
+keyp
+keypoints
+my_output
+orig_output
+porc
+res_orig
+result
+test_frames
+orig.txt
+*.swp
+
